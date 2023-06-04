@@ -9,7 +9,7 @@
 ### Hi there 👋 
 
 
-I am a malicious software maker, expert in scientific computer science and towing sides (Software and Hardwre) security pentestenig how have much interrest in hunting vulnerability.
+* I am a malicious software maker, expert in scientific computer science and towing sides (Software and Hardwre) security pentestenig how have much interrest in hunting vulnerability.
 
 
 <!--
